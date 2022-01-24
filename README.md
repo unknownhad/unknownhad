@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reverse Engineering, Fuzzing, exploit dev and some ML/AI stuff 
 - 🌱 I’m currently learning how to automate bug hunting
 - 💞️ I’m looking to collaborate on ... whatever 
-- 📫 How to reach me : anand.himanshu17[AT]gmail[DOT]com
+- 📫 How to reach me : me[at]himanshuanand[.]com
 - 🌐 Website: https://himanhsuanand.com
 
 <!---
